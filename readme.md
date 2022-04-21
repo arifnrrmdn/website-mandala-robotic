@@ -1,4 +1,4 @@
-# web-ini-di-design-dengan-menggunakan-framework-bootstrap
+# Website Mandala Robotic Club
 
 Landing page adalah halaman dalam website yang didesain khusus dengan mindset marketing. 
 Halaman inilah yang ditampilkan ketika pengunjung mengakses website dari hasil pencarian berbayar (paid search).
