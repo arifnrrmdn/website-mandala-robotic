@@ -12,5 +12,5 @@ Follow my Instagram @arifnoerramadhan for more info thank you!
 
 ## Demo
 
-[Link](https://iifrmdn.github.io/mandalarobotic.github.io/)
+[Link](https://iifrmdn.github.io/Website-Mandala-Robotic/)
 
